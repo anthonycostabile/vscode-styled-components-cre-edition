@@ -1,5 +1,7 @@
 # Contributing
 
+#### Note: This information pertains to the original vscode-styled-components
+
 Start off forking, then cloning the project locally:
 
 - `$ yarn` - Install dependencies

@@ -1,6 +1,8 @@
-# vscode-styled-components
+# vscode-styled-components-cre-edition
 
-Syntax highlighting and IntelliSense for [styled-components](https://github.com/styled-components/styled-components).
+#### **_Forked from [vscode-styled-components](https://github.com/styled-components/vscode-styled-components)_**
+
+Syntax highlighting and IntelliSense for [styled-components](https://github.com/styled-components/styled-components) with support for [compatible-react-emotion](https://github.com/anthonycostabile/compatible-react-emotion).
 
 ![Syntax highlighting in action](demo.png)
 
@@ -11,12 +13,12 @@ Uses a CSS grammar built on top of [language-sass](https://github.com/atom/langu
 Inside VSCode, press `Ctrl+P`, and enter:
 
 ```
-ext install vscode-styled-components
+ext install vscode-styled-components-cre-edition
 ```
 
 It should be the top result.
 
-[[Source](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)]
+[[Source](https://marketplace.visualstudio.com/items?itemName=anthonycostabile.vscode-styled-components-cre-edition)]
 
 ## Features
 

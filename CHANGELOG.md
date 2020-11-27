@@ -1,5 +1,7 @@
 # Release Notes
 
+#### Note: This information pertains to the original vscode-styled-components
+
 ## 1.3.0 (18-11-2020)
 
 - Added support for astroturf `stylesheet` (Thanks @mikestopcontinues) [245](https://github.com/styled-components/vscode-styled-components/pull/245)

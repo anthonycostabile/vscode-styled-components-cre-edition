@@ -1,14 +1,14 @@
 {
-  "name": "vscode-styled-components",
-  "displayName": "vscode-styled-components",
-  "description": "Syntax highlighting for styled-components",
+  "name": "vscode-styled-components-cre-edition",
+  "displayName": "vscode-styled-components-cre-edition",
+  "description": "Syntax highlighting for styled-components with support for compatible-react-emotion",
   "version": "1.3.0",
-  "publisher": "jpoissonnier",
+  "publisher": "AnthonyCJW",
   "icon": "logo.png",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/styled-components/vscode-styled-components.git"
+    "url": "https://github.com/anthonycostabile/vscode-styled-components-cre-edition.git"
   },
   "main": "dist/extension.js",
   "engines": {
